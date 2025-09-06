@@ -1,0 +1,5 @@
+train: C:/Users/praga/construction-site-safety-image-dataset-roboflow/css-data/train/images   
+val: C:/Users/praga/construction-site-safety-image-dataset-roboflow/css-data/valid/images      
+test: C:/Users/praga/construction-site-safety-image-dataset-roboflow/css-data/test/images  
+nc: 10  # Update this number based on actual class coun
+names: ['Hardhat', 'Mask', 'NO-Hardhat', 'NO-Mask', 'NO-Safety Vest', 'Person', 'Safety Cone', 'Safety Vest', 'machinery', 'vehicle']
